@@ -1,1 +1,1 @@
-print("I'm deeply interested in this course it is fascinating")
+print("Also im interested in learning JavaScript")
